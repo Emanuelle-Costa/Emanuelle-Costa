@@ -1,8 +1,8 @@
-### Hi there 👋
+### Olá! Eu sou Emanuelle Costa👋
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na Unipê
 - 🌱 Recentemente comecei a ver Flutter
-- 🧐 Estou a procura da primeira experiência proficional como Desenvolvedora
+- 🧐 Estou a procura da primeira experiência profissional como Desenvolvedora
 - 😄 Pronouns: ela/dela
 
 <div align="center">
