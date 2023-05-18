@@ -1,7 +1,7 @@
 ### Olá! Eu sou Emanuelle Costa👋
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas na Unipê
-- 🌱 Recentemente comecei a estudar Flutter
+- 📚 Tenho Graduação em  Análise e Desenvolvimento de Sistemas na Unipê
+- 🌱 Estou cursando Pós-Graduação em Full Stack Development na UNIESP
 - 🧐 Estou à procura da primeira experiência profissional como Desenvolvedora
 - 😄 Pronouns: ela/dela
 
