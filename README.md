@@ -1,6 +1,6 @@
 ### Olá! Eu sou Emanuelle Costa👋
 
-- 📚 Tenho Graduação em  Análise e Desenvolvimento de Sistemas na Unipê
+- 📚 Sou Graduada em  Análise e Desenvolvimento de Sistemas pela UNIPÊ
 - 🌱 Estou cursando Pós-Graduação em MBA Full Stack Development na UNIESP
 - 🧐 Estou à procura da primeira experiência profissional como Desenvolvedora
 - 😄 Pronouns: ela/dela
